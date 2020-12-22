@@ -1,7 +1,7 @@
 # Driver-Drowsiness-Detection
 Developed a real-time drowsiness detection algorithm that uses a webcam.
 
-#Project Description
+# Project Description
 Road accidents are a major public health problem globally. 
 The World Health Organization (WHO) estimates that there are 1.2 million deaths and 10 million injuries due to road accidents around the world annually. 
 These numbers are staggering and ultimately impact the economy in different ways. 
