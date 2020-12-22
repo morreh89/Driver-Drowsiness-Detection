@@ -12,4 +12,16 @@ In different surveys conducted in the past, 30% of people reported dozing off wh
 Driving while drowsy means that one is four times more likely to be involved in a crash. As such, this project highly relevant in today's society. 
 Being able to predict drowsiness among drivers in real time can prevent road accidents since the driver can be warned by an alarm and he/she can therefore take appropriate measures to stop driving.
 
+# Technologies Used
+Python, Dlib, OpenCV, PyCharm, Google Colab
+
+# Usage
+This project can be deployed and used to detect drowsiness in real time.
+
+Ensure you install PyCharm and Shape predictor to implement this code
+
+You can get the shape predictor from this link https://drive.google.com/file/d/1fdYEvOs7CyN7HL-AhHGWq8juLMJEZzMK/view?usp=sharing
+
+# Contributors
+Maurice Kimanzi, Elena Mwangi, Karimi Gichunge, Nyawira Kibathi, Joan Yego
 
